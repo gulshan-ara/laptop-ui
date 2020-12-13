@@ -184,6 +184,12 @@ nav {
 		padding-top: 10px;
 	}
 
+	.cta-add {
+		margin-top: 5px;
+		margin-left: 0;
+
+	}
+
 	.laptop-select {
 		bottom: 5%;
 		right: 48%;
